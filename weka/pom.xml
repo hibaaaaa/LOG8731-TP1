@@ -234,7 +234,7 @@
             <includes>
               <include>**/*Test.java</include>
             </includes>
-            <disableXmlReport>true</disableXmlReport>
+            <disableXmlReport>false</disableXmlReport>
             <redirectTestOutputToFile>true</redirectTestOutputToFile>
             <systemPropertyVariables>
               <weka.test.Regression.root>src/test/resources/wekarefs</weka.test.Regression.root>
